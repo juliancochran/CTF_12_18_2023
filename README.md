@@ -1,0 +1,1 @@
+Hey kids! Let's hope that for this holiday break, you far prefer doing something fun with Strings, Arrays, and ArrayLists, especially considering that they are all part of your current unit for APCS. Isn't this more fun than taking a traditional exam? It's much more fun for your teacher to write this than write and grade an exam. Trust me!
